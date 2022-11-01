@@ -2,7 +2,7 @@ import { Html, Head, Main, NextScript } from 'next/document';
 
 const Document = () => (
   <Html>
-    <title>생각을 정리할 땐 Ambition</title>
+    <title>A-Little-Space</title>
     <Head>
       <link
         rel='shortcut icon'
